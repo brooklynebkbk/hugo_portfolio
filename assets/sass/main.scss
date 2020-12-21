@@ -1,0 +1,10 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+
+$not-so-white: #ffe;
+body {
+	background-color: $not-so-white;
+}
+.custom-code {
+	color: $purple;
+}
