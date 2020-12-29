@@ -1,0 +1,77 @@
+projects:
+- id: 303esports
+  name: 303 Esports
+  index: 0
+  colors: 
+  - "#DBE6E3"
+  - "#061A1E"
+  - "#F29121"
+  - "#ADBDB6"
+  previews:
+  - Airbnb-new-logo-2014.png
+  - customers_airbnb_logo_2.png
+  images:
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+- id: bazinihopp
+  name: Bazini Hopp
+  index: 1
+  colors: 
+  - "#E8ECED"
+  - "#414C62"
+  - "#EC7A6F" 
+  - "#E8ECED"
+  previews:
+  - Airbnb-new-logo-2014.png
+  - customers_airbnb_logo_2.png
+  images:
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+- id: structure
+  name: Animated Structure
+  index: 2
+  colors: 
+  - "#E5EBEA"
+  - "#0B191F"
+  - "#4C5E5C"
+  - "#E5EBEA"
+  previews:
+  - Airbnb-new-logo-2014.png
+  - customers_airbnb_logo_2.png
+  images:
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+- id: flshotusers
+  name: FL Shot Users
+  index: 3
+  colors: 
+  - "#DAF6FB"
+  - "#084D67"
+  - "#52DCF4"
+  - "#DAF6FB"
+  previews:
+  - Airbnb-new-logo-2014.png
+  - customers_airbnb_logo_2.png
+  images:
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
+  - Airbnb-new-logo-2014.png
