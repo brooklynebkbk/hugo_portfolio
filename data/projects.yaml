@@ -8,16 +8,12 @@ projects:
   - "#F29121"
   - "#ADBDB6"
   previews:
-  - Airbnb-new-logo-2014.png
-  - customers_airbnb_logo_2.png
+  - 303esports/ThreeHomeOne.png
+  - 303esports/mobile303Home.PNG
   images:
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
+  - 303esports/ThreePalette.png
+  - 303esports/ThreeOfficial.png
+  - 303esports/MountainRange.png
 - id: bazinihopp
   name: Bazini Hopp
   index: 1
@@ -27,16 +23,15 @@ projects:
   - "#EC7A6F" 
   - "#E8ECED"
   previews:
-  - Airbnb-new-logo-2014.png
-  - customers_airbnb_logo_2.png
+  - bazinihopp/BaziniHopp.mov
+  - bazinihopp/bhpreviewMobileImage.PNG
   images:
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
+  - bazinihopp/bhbrandingColors.png
+  - bazinihopp/logoWhite.png
+  - bazinihopp/logoDark.png
+  - bazinihopp/eventsIcon.png
+  - bazinihopp/editorialIcon.png
+  - bazinihopp/socialIcon.png
 - id: structure
   name: Animated Structure
   index: 2
@@ -46,16 +41,10 @@ projects:
   - "#4C5E5C"
   - "#E5EBEA"
   previews:
-  - Airbnb-new-logo-2014.png
-  - customers_airbnb_logo_2.png
+  - structure/architectureAnimation.mov
+  - structure/structureMobile.png
   images:
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
+  - structure/minnie.png
 - id: flshotusers
   name: FL Shot Users
   index: 3
@@ -65,13 +54,5 @@ projects:
   - "#52DCF4"
   - "#DAF6FB"
   previews:
-  - Airbnb-new-logo-2014.png
-  - customers_airbnb_logo_2.png
-  images:
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
-  - Airbnb-new-logo-2014.png
+  - flshotusers/FLSFooter.png
+  - flshotusers/FLSFooterMobile.PNG

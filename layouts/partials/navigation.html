@@ -1,0 +1,6 @@
+{{ range where .Site.Pages ".Params.project" true }}
+
+	<li {{ if eq $.Page.Permalink .Page.Permalink }} style="background-color:pink;"
+	{{ end }}><a href="{{ .Params.Id | absLangURL }}">{{ .Params.Title }}</a></li>
+
+{{ end }}

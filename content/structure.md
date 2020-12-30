@@ -1,9 +1,11 @@
 ---
+id: structure
 title: Animated Structure
+project: true
 description: 
 draft: false
 header: Structure Animation
-sub-header: Solo Project
+sub_header: Solo Project
 
 project_context:
   - title: "About"

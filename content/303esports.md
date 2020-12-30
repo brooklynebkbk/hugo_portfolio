@@ -1,9 +1,11 @@
 ---
+id: 303esports
 title: 303 Esports
+project: true
 description: 
 draft: false
 header: 303 Esports Website Design and Development
-sub-header: Solo Project
+sub_header: Solo Project
 
 project_context:
   - title: "About"
